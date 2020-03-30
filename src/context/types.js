@@ -1,0 +1,6 @@
+
+export const ADD_PAYMENT = 'ADD_PAYMENT'
+export const REMOVE_PAYMENT = 'REMOVE_PAYMENT'
+export const EDIT_PAYMENT = 'EDIT_PAYMENT'
+export const FETCHED_PAYMENT = 'FETCHED_PAYMENT'
+export const START_LOADING = 'START_LOADING'
